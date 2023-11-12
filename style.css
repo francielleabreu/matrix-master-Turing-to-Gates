@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+#turingImg img {
+    width: 70%;
+    margin: .5em auto;
+}
